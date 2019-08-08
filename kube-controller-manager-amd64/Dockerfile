@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-controller-manager-amd64:1.15.2
+FROM gcr.io/google-containers/kube-controller-manager-amd64:1.15.2

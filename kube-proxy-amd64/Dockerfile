@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-proxy-amd64:1.15.2
+FROM gcr.io/google-containers/kube-proxy-amd64:1.15.2

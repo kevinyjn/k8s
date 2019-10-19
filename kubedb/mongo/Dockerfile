@@ -1,1 +1,1 @@
-FROM kubedb/mongo:4.1.7-v1
+FROM kubedb/mongo:4.1.13

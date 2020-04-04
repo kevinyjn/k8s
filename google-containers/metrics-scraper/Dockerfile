@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/metrics-scraper:v1.0.2
+FROM kubernetesui/metrics-scraper:v1.0.2

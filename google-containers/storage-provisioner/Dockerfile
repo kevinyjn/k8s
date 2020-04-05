@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/storage-provisioner:v1.8.1
+FROM gcr.io/k8s-minikube/storage-provisioner:v1.8.1

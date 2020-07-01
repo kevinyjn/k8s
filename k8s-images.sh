@@ -5,9 +5,9 @@
 # Created on: Thu Aug  8 18:29:30 2019
 ################################################################################
 #!/bin/bash
-K8S_VERSION=v1.15.2
-ETCD_VERSION=3.3.10
-COREDNS_VERSION=1.3.1
+K8S_VERSION=v1.18.5
+ETCD_VERSION=3.4.3-0
+COREDNS_VERSION=1.6.7
 DASHBOARD_VERSION=v1.8.3
 FLANNEL_VERSION=v0.10.0-amd64
 DNS_VERSION=1.14.8

@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kube-scheduler:v1.18.5
+FROM gcr.io/google-containers/kube-scheduler:v1.19.2
